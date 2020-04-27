@@ -13,3 +13,5 @@ class MyServer
 end 
 
 run MyServer.new 
+
+#That's basically what web servers do all day long. Rails, Sinatra, any web programming framework is a way to organize the code that fills out that third Array element in our Rack responses.
