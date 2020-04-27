@@ -13,3 +13,5 @@ run my_server
 #1. An HTTP Status code where 200 is used for OK
 #2. A Hash with a "Content-Type" key that returns the value (for HTML-based documents) of text/html
 #3. Something that responds to each which contains the multiple lines of a document of the "Content-Type"'s type (here, Strings that look like HTML: "<p>Like this!</p>". The most common "each-able" thing is an Array
+
+#Feel free to change first.ru to add changes to your web server. If you make changes to first.ru you'll have to shut down the server (Control-C) and re-start it to see the changes.
